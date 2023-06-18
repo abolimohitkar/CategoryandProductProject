@@ -1,6 +1,6 @@
 ## Online ShopKart 
 
-Online ShopKart API system build on Django Rest Framework.
+Online ShopKart API system build on Django Rest Framework and Angular
 
 It contains Category and Product tabs.
 
